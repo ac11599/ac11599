@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Alberto 👋
+
+I'm a student at New York University studying data science and related fields.
+
+I'm interested in data science and using data to solve real-world problems.
 
 <!--
 **ac11599/ac11599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
