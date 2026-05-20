@@ -1,20 +1,15 @@
-## Hi there, my name is Alberto 👋
+## Hi there, I'm Alberto 👋
 
-I'm a student at New York University studying data science and related fields.
+I'm a student at New York University studying data science.
 
-I'm interested in data science and using data to solve real-world problems.
+I enjoy working with data, and using data to solve real-world problems. 
 
-<!--
-**ac11599/ac11599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+- Data analysis & visualization
+- Real-world data applications
+- Machine learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Python for data science
+- Statistical modeling
+- Machine learning fundamentals
