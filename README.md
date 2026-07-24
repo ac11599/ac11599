@@ -1,8 +1,7 @@
 ## Hi there, I'm Alberto 👋
 
-I'm a student at New York University studying data science.
+Aspiring Data Scientist | Mechanical Engineering @ NYU Tandon | Data Urbanist @ NYU CUSP | Exploring machine learning, analytics, and data-driven to solve real world problems!
 
-I enjoy working with data, and using data to solve real-world problems. 
 
 ### Interests
 - Data analysis & visualization
